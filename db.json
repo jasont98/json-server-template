@@ -1,0 +1,23 @@
+{
+  "saved-cities": [
+    {
+      "id": 1,
+      "name": "Denver"
+    },
+    {
+      "id": 2,
+      "name": "Tokyo"
+    },
+    {
+      "id": 3,
+      "name": "New York"
+    }
+  ],
+  "weather-icons": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
