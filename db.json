@@ -16,8 +16,28 @@
   "weather-icons": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "sunny",
+      "image": "./images/wi-day-sunny.svg"
+    },
+    {
+      "id": 2,
+      "name": "cloudy",
+      "image": "./images/wi-cloudy.svg"
+    },
+    {
+      "id": 3,
+      "name": "raining",
+      "image": "./images/wi-day-rain.svg"
+    },
+    {
+      "id": 4,
+      "name": "windy",
+      "image": "./images/wi-day-windy.svg"
+    },
+    {
+      "id": 5,
+      "name": "fog",
+      "image": "./images/wi-day-fog.svg"
     }
   ]
 }
