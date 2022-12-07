@@ -13,31 +13,66 @@
       "name": "New York"
     }
   ],
+  "displayed-cities": [
+    {
+      "id": 1,
+      "name": "Denver"
+    },
+    {
+      "id": 2,
+      "name": "Tokyo"
+    },
+    {
+      "id": 3,
+      "name": "New York"
+    }
+  ],
   "weather-icons": [
     {
       "id": 1,
-      "name": "sunny",
+      "name": "clear sky",
       "image": "./images/wi-day-sunny.svg"
     },
     {
       "id": 2,
-      "name": "cloudy",
+      "name": "overcast clouds",
       "image": "./images/wi-cloudy.svg"
     },
     {
       "id": 3,
-      "name": "raining",
-      "image": "./images/wi-day-rain.svg"
+      "name": "broken clouds",
+      "image": "./images/wi-day-cloudy-high.svg"
     },
     {
       "id": 4,
-      "name": "windy",
-      "image": "./images/wi-day-windy.svg"
+      "name": "scattered clouds",
+      "image": "./images/wi-day-sunny-overcast.svg"
     },
     {
       "id": 5,
-      "name": "fog",
-      "image": "./images/wi-day-fog.svg"
+      "name": "haze",
+      "image": "./images/wi-day-haze.svg"
+    },
+    {
+      "id": 6,
+      "name": "light rain",
+      "image": "./images/wi-day-rain-mix.svg"
+    },
+    {
+      "id": 7,
+      "name": "mist",
+      "image": "./images/wi-day-showers.svg"
+    },
+    {
+      "id": 8,
+      "name": "snow",
+      "image": "./images/wi-snow.svg"
+    },
+    {
+      "id": 9,
+      "name": "light snow",
+      "image": "./images/wi-day-snow.svg"
     }
+
   ]
 }
