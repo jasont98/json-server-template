@@ -11,16 +11,6 @@
     {
       "id": 3,
       "name": "New York"
-    },
-    {
-      "name": "Germany",
-      "weatherId": 2921044,
-      "id": 4
-    },
-    {
-      "name": "Keith",
-      "weatherId": 2645880,
-      "id": 5
     }
   ],
   "displayed-cities": [
@@ -94,6 +84,11 @@
     {
       "id": 10,
       "name": "few clouds",
+      "image": "./images/few clouds.svg"
+    },
+    {
+      "id": 10,
+      "name": "moderate rain",
       "image": "./images/few clouds.svg"
     }
   ]
