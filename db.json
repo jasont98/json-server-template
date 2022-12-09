@@ -11,6 +11,16 @@
     {
       "id": 3,
       "name": "New York"
+    },
+    {
+      "name": "Germany",
+      "weatherId": 2921044,
+      "id": 4
+    },
+    {
+      "name": "Keith",
+      "weatherId": 2645880,
+      "id": 5
     }
   ],
   "displayed-cities": [
@@ -20,59 +30,71 @@
     },
     {
       "id": 2,
-      "name": "Tokyo"
+      "name": "New York"
     },
     {
       "id": 3,
-      "name": "New York"
+      "name": "Las Vegas"
+    },
+    {
+      "id": 4,
+      "name": "Portland"
+    },
+    {
+      "id": 5,
+      "name": "Irvine"
     }
   ],
   "weather-icons": [
     {
       "id": 1,
       "name": "clear sky",
-      "image": "./images/wi-day-sunny.svg"
+      "image": "./images/clear sky.svg"
     },
     {
       "id": 2,
       "name": "overcast clouds",
-      "image": "./images/wi-cloudy.svg"
+      "image": "./images/overcast clouds.svg"
     },
     {
       "id": 3,
       "name": "broken clouds",
-      "image": "./images/wi-day-cloudy-high.svg"
+      "image": "./images/broken clouds.svg"
     },
     {
       "id": 4,
       "name": "scattered clouds",
-      "image": "./images/wi-day-sunny-overcast.svg"
+      "image": "./images/scattered clouds.svg"
     },
     {
       "id": 5,
       "name": "haze",
-      "image": "./images/wi-day-haze.svg"
+      "image": "./images/haze.svg"
     },
     {
       "id": 6,
       "name": "light rain",
-      "image": "./images/wi-day-rain-mix.svg"
+      "image": "./images/light rain.svg"
     },
     {
       "id": 7,
       "name": "mist",
-      "image": "./images/wi-day-showers.svg"
+      "image": "./images/mist.svg"
     },
     {
       "id": 8,
       "name": "snow",
-      "image": "./images/wi-snow.svg"
+      "image": "./images/snow.svg"
     },
     {
       "id": 9,
       "name": "light snow",
-      "image": "./images/wi-day-snow.svg"
+      "image": "./images/light snow.svg"
+    },
+    {
+      "id": 10,
+      "name": "few clouds",
+      "image": "./images/few clouds.svg"
     }
-
   ]
 }
